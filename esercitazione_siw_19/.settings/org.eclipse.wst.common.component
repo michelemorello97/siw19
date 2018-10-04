@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="esercitazione_siw_19">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="esercitazione_siw_19"/>
+        <property name="java-output-path" value="/esercitazione_siw_19/build/classes"/>
+    </wb-module>
+</project-modules>
